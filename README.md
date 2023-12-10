@@ -10,8 +10,6 @@ Welcome to CryptoCanvas, where art meets artificial intelligence to transform yo
 
 - **Decentralized and Secure:** Embrace the decentralized world of blockchain. Your NFTs are securely stored on the blockchain, providing transparency, authenticity, and ownership that can be verified by anyone.
 
-- **Community and Exposure:** Join a vibrant community of artists and collectors. Showcase your NFTs to a global audience and connect with like-minded individuals who appreciate the intersection of art and technology.
-
 ## How It Works
 
 1. **Create:** Use our AI prompt generator to spark your creativity. Craft a unique prompt and watch as the AI interprets it into a digital masterpiece.
